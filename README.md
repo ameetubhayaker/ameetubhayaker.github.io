@@ -4,4 +4,4 @@ The following directories and their contents are copyrighted by Ameet Ubhayaker.
 
 _posts/
 images/  
-This site is published with Jekyll.
+This site is published with [Jekyll](http://github.com/mojombo/jekyll).
